@@ -1,4 +1,4 @@
-# Hi!
+# Hi 👋!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F7FF&width=435&lines=Backend+Developer;FastAPI+%2F+Python;Iam-Mil;15+y.o)](https://git.io/typing-svg)
 
