@@ -1,6 +1,6 @@
 # Hi!
 
-![snake gif](https://github.com/Iam-Mil/Iam-Mil/blob/output/github-contribution-grid-snake.svg)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## My skills:
   <img src="https://skillicons.dev/icons?i=python,bash,postgres,docker,linux,git,gitlab,stackoverflow,github,pycharm" />
