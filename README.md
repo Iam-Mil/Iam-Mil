@@ -1,5 +1,6 @@
 # Hi!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F7FF&width=435&lines=Backend+Developer;FastAPI+%2F+Python;Linux+User;I+love%20clean%20architecture)](https://git.io/typing-svg)
 
 ## My skills:
   <img src="https://skillicons.dev/icons?i=python,bash,postgres,docker,linux,git,gitlab,stackoverflow,github,pycharm" />
