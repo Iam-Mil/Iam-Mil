@@ -1,6 +1,6 @@
 # Hi!
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 
 ## My skills:
   <img src="https://skillicons.dev/icons?i=python,bash,postgres,docker,linux,git,gitlab,stackoverflow,github,pycharm" />
