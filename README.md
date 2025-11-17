@@ -1,5 +1,5 @@
 # Hi!
-![Stats](https://github-readme-stats.vercel.app/api?username=Iam-Mil&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F7FF&width=435&lines=Backend+Developer;FastAPI+%2F+Python;Iam-Mil;15+y.o)](https://git.io/typing-svg)
 
