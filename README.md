@@ -5,7 +5,6 @@
 ## My skills:
 <img src="https://skillicons.dev/icons?i=python,bash,postgres,docker,linux,git,gitlab,stackoverflow,github,pycharm,fastapi,sqlite,markdown" />
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/uvicorn.svg" height="48" title="Uvicorn" />
 
 ## 🌐 Socials
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Telegram" title="Telegram"/>](https://t.me/Miluta)
