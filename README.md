@@ -1,8 +1,7 @@
 # Hi!
 ## My skills:
   <img src="https://skillicons.dev/icons?i=python,bash,postgres,docker,linux,git,gitlab,stackoverflow,github,pycharm" />
-  <img src="https://skillicons.dev/icons?i=fastapi,sqlite" /> <!-- sqlite как аналог sqlalchemy -->
-  
+  <img src="https://skillicons.dev/icons?i=fastapi" /> 
 
 <details>
   <summary>Reach out to me:</summary>
