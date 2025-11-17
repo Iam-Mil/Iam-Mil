@@ -1,5 +1,6 @@
 # Hi!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Mil&layout=compact&theme=tokyonight)
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ## My skills:
   <img src="https://skillicons.dev/icons?i=python,bash,postgres,docker,linux,git,gitlab,stackoverflow,github,pycharm" />
