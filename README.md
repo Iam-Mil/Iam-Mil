@@ -1,6 +1,6 @@
 # Hi 👋!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F7FF&width=435&lines=Backend+Developer;FastAPI+%2F+Python;Iam-Mil;15+y.o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F7FF&width=435&lines=Backend+Developer;FastAPI+%2F+Python;Iam-Mil)](https://git.io/typing-svg)
 
 ## My skills:
 <img src="https://skillicons.dev/icons?i=python,bash,postgres,docker,linux,git,gitlab,stackoverflow,github,pycharm,fastapi,sqlite,markdown" />
